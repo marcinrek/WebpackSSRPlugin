@@ -129,6 +129,7 @@ exports.default = (envFile) => {
 * ```data-printdataprops``` - if true will print the data-props - it can overwrite createDataProps setting 
 
 ## Versions:
+* 0.3.1 - update esbuild and jest version
 * 0.3.0 - major changes:
     * add option to pick output bundle format: ES or CommonJS
     * make it possible to not specify a wrapper around output html
